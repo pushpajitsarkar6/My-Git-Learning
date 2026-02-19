@@ -1,3 +1,6 @@
 Hello !!! Welcome to my first Git learning exercise...
 
 made some changes from master.
+
+
+A marketing massage section added to file.1
