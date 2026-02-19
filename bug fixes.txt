@@ -7,3 +7,6 @@ and now also bug 3.
 its 4th one.
 
 now its 5th fix.
+
+
+pinkmode fix -> one more bug fixed.
