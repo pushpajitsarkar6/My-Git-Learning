@@ -10,3 +10,6 @@ now its 5th fix.
 
 
 pinkmode fix -> one more bug fixed.
+
+
+One purplemode fix -> one bug fixed.
