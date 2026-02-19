@@ -1,1 +1,3 @@
 Hello !!! Welcome to my first Git learning exercise...
+
+making some changes.
