@@ -1,0 +1,1 @@
+this pinkmode.txt is created for learning Git rebase.
